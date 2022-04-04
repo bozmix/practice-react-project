@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    background-color: burlywood;
+    border: black dashed 1px;
+}
+
+
+
+h1 {
+    background-color: aqua;
+    margin: 10px;
+    color: aliceblue;
+    padding: 10px 20px 30px 40px;
+}

@@ -1,0 +1,21 @@
+.blogItem {
+    margin: 10px 20px 5px;
+    background-color: azure;
+    color: rgb(211, 40, 202);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 10px;
+    background-color: aqua;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: blue;
+    padding: 10px 20px 30px;
+    color: white;
+}
